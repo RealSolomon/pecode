@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pecode/static/css/main.298726e5.css",
+    "main.js": "/pecode/static/js/main.58f2ae37.js",
+    "index.html": "/pecode/index.html",
+    "main.298726e5.css.map": "/pecode/static/css/main.298726e5.css.map",
+    "main.58f2ae37.js.map": "/pecode/static/js/main.58f2ae37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298726e5.css",
+    "static/js/main.58f2ae37.js"
+  ]
+}
